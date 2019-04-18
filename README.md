@@ -1,2 +1,1 @@
-dddddd
--기술교육
+-기술교육  dddddd
